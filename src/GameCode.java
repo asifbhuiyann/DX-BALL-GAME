@@ -1,10 +1,3 @@
-/*
- Asif Bhuiyan (2011941642)
- Ratul Bhattarcharjee(2012996642)
- Mohammad Olid Afzal(2011831042)
- Group No: 05
- Section:5
- */
 import javax.swing.JPanel;
 import javax.swing.Timer; //class provides a method call that is used by a thread to schedule a task
 import java.awt.Graphics2D;
