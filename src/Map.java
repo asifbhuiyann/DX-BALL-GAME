@@ -1,10 +1,3 @@
-/*
- Asif Bhuiyan (2011941642)
- Ratul Bhattarcharjee(2012996642)
- Mohammad Olid Afzal(2011831042)
- Group No: 05
- Section:5
- */
 import java.awt.BasicStroke; //states colors in the default sRGB color space or colors in arbitrary color spaces identified by a ColorSpace
 import java.awt.Color;
 import java.awt.Graphics2D;
